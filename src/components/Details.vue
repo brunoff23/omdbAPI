@@ -18,7 +18,6 @@
                             <p>Sinopse: {{info.Plot}}</p>
                             <p>Diretor: {{info.Director}}</p>
                             <p>Atores: {{info.Actors}}</p>
-                            
                         </div>
                     </div>
                 </article>
