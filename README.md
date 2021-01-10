@@ -1,4 +1,4 @@
-# omdbAPI
+# Search Movies
 
 Código criado para relembrar um pouco sobre o uso do Vue.js
 
